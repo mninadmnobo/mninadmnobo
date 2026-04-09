@@ -1,81 +1,93 @@
 # 👋 Hi, I’m Mohammad Ninad Mahmud Nobo
 
-### 👨‍🎓 About Me
-🎓 Final-year CSE undergraduate at BUET  
-💻 Interested in backend systems, systems programming, and AI-driven applications  
+🎓 CSE Undergraduate @ BUET  
+💻 Backend & Systems Engineer | AI-integrated applications  
 🧠 Working on LLM-based software testing and intelligent systems  
-🚀 Passionate about building scalable and reliable software  
 
 ---
 
-### 🧰 Tech Stack
+## 📊 GitHub Activity
 
-- **Languages:** C/C++, Java, Python, Kotlin, JavaScript  
-- **Backend:** Spring Boot, Node.js, REST APIs  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn  
-- **Tools:** Docker, Git, Linux, Firebase  
-
----
-
-### 🛠️ Featured Projects
-
-#### 🧠 MindTrace — AI-Powered Dementia Care System  
-- Scalable backend using Spring Boot, PostgreSQL, Redis  
-- AI-integrated application for real-world healthcare support  
-🔗 https://github.com/mninadmnobo/MindTrace  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mninadmnobo&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=mninadmnobo" />
+</p>
 
 ---
 
-#### ⚙️ Compiler for C-like Language  
-- Full pipeline: Lexer → Parser → Semantic Analysis → Code Generation  
-- AST, IR, and optimized 8086 assembly generation  
-🔗 https://github.com/mninadmnobo/CompilerSessional  
+## 🚀 Featured Work
+
+<p align="center">
+
+<a href="https://github.com/mninadmnobo/MindTrace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=MindTrace" />
+</a>
+
+<a href="https://github.com/mninadmnobo/GemmaVetCare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=GemmaVetCare" />
+</a>
+
+<a href="https://github.com/mninadmnobo/Test-Case-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=Test-Case-Generator" />
+</a>
+
+<a href="https://github.com/mninadmnobo/MedRAX_conflict_resolver">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=MedRAX_conflict_resolver" />
+</a>
+
+</p>
+
+- 🧠 **MindTrace** — Scalable backend (Spring Boot, PostgreSQL, Redis) for AI-powered healthcare  
+- 🐄 **Gemma VetCare** — AI-assisted farming system with optimized APIs  
+- 🤖 **LLM Test Generator** — Automated web testing using LLM pipelines  
+- 🩺 **MedRAX** — Deep learning system for medical image analysis  
 
 ---
 
-#### 🌐 SkillHub — Backend System  
-- REST API-based application with role-based access control  
-- Scalable backend and database design  
-🔗 https://github.com/mninadmnobo/SKILL_HUB  
+## 🧩 Other Work
+
+- ⚙️ **[Compiler](https://github.com/mninadmnobo/CompilerSessional)** — AST, IR, semantic analysis, code generation  
+- 🌐 **[SkillHub](https://github.com/mninadmnobo/SKILL_HUB)** — REST API backend with RBAC  
+- 🌱 **[Remote Gardening](https://github.com/mninadmnobo/CSE-316-Microcontroller-and-Microprocessor-Project)** — Embedded automation system  
+- 🎨 **[Graphics Pipeline](https://github.com/mninadmnobo/Computer-Graphics-Pipeline)** — Rasterization & ray tracing  
+- 🌐 **[Network Attack](https://github.com/mninadmnobo/CSE406-Window_Scaling_Attack)** — MITM simulation  
+- 🎬 **[Movie DB](https://github.com/mninadmnobo/Movie-DataBase-Management-JavaFX)** — JavaFX desktop app  
 
 ---
 
-#### 🤖 LLM-Based Test Case Generator  
-- Automated web testing using LLM pipelines  
-- Focus on robustness and evaluation  
-🔗 https://github.com/mninadmnobo/Test-Case-Generator  
+## 🧰 Tech Stack
+
+**Languages:** C/C++, Java, Python, Kotlin, JavaScript  
+**Backend:** Spring Boot, Node.js, REST APIs  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**AI/ML:** PyTorch, TensorFlow  
+**Systems:** Compiler Design, OS, Networking  
+**Tools:** Docker, Linux, Git  
 
 ---
 
-### 🧪 Research & Interests
+## 🧪 Research
 
-- Large Language Models (LLMs) for Software Engineering  
-- Automated Testing and Program Analysis  
-- Distributed Systems and Scalable Architectures  
-
----
-
-### 📊 Programming Profiles
-
-- NeetCode: https://neetcode.io/profile/mninadmnobo  
-- LeetCode: https://leetcode.com/u/NinadNobo/  
-- Kaggle: https://www.kaggle.com/mohammadninadmahmud  
+🧠 LLM-based automated web testing  
+- Test generation  
+- Coverage evaluation  
+- System robustness  
 
 ---
 
-### 🏅 Activity & Focus
+## 📊 Profiles
 
-✔️ Active GitHub contributor  
-🛠️ Focus areas: Backend systems, APIs, systems programming, AI integration  
-
----
-
-### 📫 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/mninadmnobo/  
-📧 Email: mninadmnobo@gmail.com  
+- 💻 NeetCode: https://neetcode.io/profile/mninadmnobo  
+- 🧠 LeetCode: https://leetcode.com/u/NinadNobo/  
+- 📊 Kaggle: https://www.kaggle.com/mohammadninadmahmud  
 
 ---
 
-⭐ *Building systems, exploring intelligence, and continuously improving*
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mninadmnobo/  
+- 📧 Email: mninadmnobo@gmail.com  
+
+---
+
+⭐ *Building scalable systems and intelligent software*
