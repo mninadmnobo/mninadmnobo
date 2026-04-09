@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Mohammad Ninad Mahmud Nobo
 
-> Software engineer at BUET focused on building scalable systems and intelligent software, with interests across backend, systems, and AI
+> 🚀 Software Engineer @ BUET | Backend • Systems • AI  
+> Building scalable systems and intelligent software
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mninadmnobo)
 ![Followers](https://img.shields.io/github/followers/mninadmnobo?label=Follow)
@@ -18,9 +19,9 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mninadmnobo&show_icons=true" />
-  <img src="https://streak-stats.demolab.com?user=mninadmnobo" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mninadmnobo&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mninadmnobo?label=Followers&style=social" />
 </p>
 
 ---
