@@ -27,31 +27,13 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+- 🧠 **[MindTrace](https://github.com/mninadmnobo/MindTrace)** — AI-powered dementia care system with scalable backend (Spring Boot, PostgreSQL, Redis)
 
-<a href="https://github.com/mninadmnobo/MindTrace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=MindTrace" />
-</a>
+- 🐄 **[Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)** — AI-assisted farming system optimized for low-connectivity environments  
 
-<a href="https://github.com/mninadmnobo/GemmaVetCare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=GemmaVetCare" />
-</a>
+- 🤖 **[LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)** — Automated web testing using LLM pipelines  
 
-<a href="https://github.com/mninadmnobo/Test-Case-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=Test-Case-Generator" />
-</a>
-
-<a href="https://github.com/mninadmnobo/MedRAX_conflict_resolver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=MedRAX_conflict_resolver" />
-</a>
-
-</p>
-
-- 🧠 **MindTrace** — AI-powered dementia care system with scalable backend (Spring Boot, PostgreSQL, Redis)  
-- 🐄 **Gemma VetCare** — AI-assisted farming system optimized for low-connectivity environments  
-- 🤖 **LLM Test Generator** — Automated web testing using LLM pipelines  
-- 🩺 **MedRAX** — Deep learning-based medical imaging system for chest X-ray analysis  
-
+- 🩺 **[MedRAX](https://github.com/mninadmnobo/MedRAX_conflict_resolver)** — Deep learning-based medical imaging system  
 ---
 
 ## 🧩 Other Projects
