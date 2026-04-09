@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohammad Ninad Mahmud Nobo
 
-> 🚀 Software Engineer @ BUET | Backend • Systems • AI  
+> 🎓 CSE Undergraduate @ BUET | Backend • Systems • AI  
 > Building scalable systems and intelligent software
 
 <p align="left">
@@ -12,9 +12,9 @@
 
 ## 🧠 About Me
 
-- 🎓 CSE Undergraduate, BUET  
-- ⚙️ Focus: Backend systems, scalable APIs, systems programming  
-- 🧠 Research: LLM-based software testing, medical AI  
+- 🎓 Undergraduate Computer Science and Engineering student at BUET  
+- ⚙️ Focus: Backend systems, scalable APIs, systems programming, ML-assisted software engineering  
+- 🧠 Research: LLM-based software testing, machine learning, medical AI  
 - 🚀 I build end-to-end systems from design → implementation → deployment  
 - 🌐 **[My Portfolio](https://v0-portfolio-nu-gray.vercel.app)**
 
@@ -37,7 +37,7 @@
 
 - 🤖 **[LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)** — Automated web testing using LLM pipelines  
 
-- 🩺 **[MedRAX](https://github.com/mninadmnobo/MedRAX_conflict_resolver)** — Deep learning-based medical imaging system  
+- 🩺 **[MedCAR](https://github.com/mninadmnobo/MedRAX_conflict_resolver)** — Conflict-aware medical reasoning system  
 ---
 
 ## 🧩 Other Projects
@@ -58,16 +58,17 @@
   - Dataset creation and evaluation  
   - Focus on coverage and robustness  
 
-- 🩺 **MedRAX Research**  
-  - Medical imaging pipelines  
-  - Model training, preprocessing, evaluation  
+- 🩺 **MedCAR Research**  
+  - Multi-model chest X-ray analysis  
+  - Conflict resolution and confidence calibration  
+  - Trust-aware decision framework with uncertainty-based abstention  
 
 ---
 
 ## 🧰 Tech Stack
 
 - **Languages:** C/C++, Python, Java, Kotlin, JavaScript, SQL  
-- **Backend:** Spring Boot, Node.js, Express.js, REST APIs  
+- **Backend:** Spring Boot, Spring AI, Node.js, Express.js, REST APIs  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn  
 - **Mobile & Cloud:** Android (Kotlin), Firebase, Azure  
