@@ -1,114 +1,85 @@
 # 👋 Hi, I’m Mohammad Ninad Mahmud Nobo
 
-### 👨‍🎓 About Me
-🎓 Final-year CSE undergraduate at BUET  
-💻 Backend & systems-focused engineer building scalable APIs and intelligent systems  
-🧠 Working on LLM-based software testing and automation  
-🚀 Interested in solving real-world problems through reliable and efficient software  
+> Final-year CSE undergraduate at BUET — backend & systems engineer building scalable software and AI-driven applications.
+
+![Followers](https://img.shields.io/github/followers/mninadmnobo?label=Follow&style=flat)
+![Top Langs](https://img.shields.io/github/languages/top/mninadmnobo?style=flat)
 
 ---
 
-## 📊 GitHub Activity
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mninadmnobo&show_icons=true" />
-  <img src="https://streak-stats.demolab.com?user=mninadmnobo" />
-</p>
+- 🎓 CSE Undergraduate, BUET  
+- ⚙️ Focus: Backend systems, scalable APIs, and systems-level programming  
+- 🧠 Research: LLM-based software testing, medical AI, ML-assisted engineering  
+- 🚀 I build end-to-end systems from design → implementation → deployment  
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Featured Projects
 
-- **Languages:** C/C++, Java, Python, Kotlin, JavaScript  
-- **Backend:** Spring Boot, Node.js, REST APIs  
+- 🧠 **[MindTrace](https://github.com/mninadmnobo/MindTrace)**  
+  AI-powered dementia care application with Spring Boot backend, PostgreSQL, Redis, and cloud deployment. Designed for real-world healthcare workflows.
+
+- 🐄 **[Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)**  
+  AI-assisted farming and veterinary support system with optimized APIs for low-connectivity environments.
+
+- 🤖 **[LLM Test Case Generator](https://github.com/mninadmnobo/Test-Case-Generator)**  
+  Automated web testing system using LLM pipelines with focus on robustness, evaluation, and coverage.
+
+- 🩺 **[MedRAX](https://github.com/mninadmnobo/MedRAX_conflict_resolver)**  
+  Deep learning-based system for chest X-ray analysis and clinical decision support.
+
+---
+
+## 🧩 Other Projects
+
+- ⚙️ **[Compiler](https://github.com/mninadmnobo/CompilerSessional)** — Full compiler with AST, IR, semantic analysis, and 8086 code generation  
+- 🌐 **[SkillHub](https://github.com/mninadmnobo/SKILL_HUB)** — REST API backend with role-based access control  
+- 🌱 **[Remote Gardening](https://github.com/mninadmnobo/CSE-316-Microcontroller-and-Microprocessor-Project)** — Embedded automation system  
+- 🎨 **[Graphics Pipeline](https://github.com/mninadmnobo/Computer-Graphics-Pipeline)** — Rasterization, Z-buffering, ray tracing  
+- 🌐 **[TCP Attack](https://github.com/mninadmnobo/CSE406-Window_Scaling_Attack)** — MITM network attack simulation  
+- 🎬 **[Movie DB](https://github.com/mninadmnobo/Movie-DataBase-Management-JavaFX)** — JavaFX desktop application  
+
+---
+
+## 🧪 Research & Thesis
+
+- 🧠 **Undergraduate Thesis:** Web Testing Using Large Language Models  
+  - Automated test generation using LLMs  
+  - Dataset creation and evaluation  
+  - Focus on coverage and system robustness  
+
+- 🩺 **MedRAX Research**  
+  - Medical imaging pipelines  
+  - Model training, preprocessing, evaluation  
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** C/C++, Python, Java, Kotlin, JavaScript, SQL  
+- **Backend:** Spring Boot, Spring AI, Node.js, Express.js, REST APIs  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn  
-- **Systems:** Compiler Design, OS, Networking  
-- **Tools:** Docker, Git, Linux, Firebase  
+- **Mobile & Cloud:** Android (Kotlin), Firebase, Azure  
+- **DevOps & Tools:** Docker, Git, Linux  
+- **Systems:** Compiler Design, Embedded Systems, Networking  
 
 ---
 
-## 🛠️ Projects
+## 📊 Profiles
 
-<p align="center">
-
-<a href="https://github.com/mninadmnobo/MindTrace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=MindTrace" />
-</a>
-
-<a href="https://github.com/mninadmnobo/CompilerSessional">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=CompilerSessional" />
-</a>
-
-<a href="https://github.com/mninadmnobo/SKILL_HUB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=SKILL_HUB" />
-</a>
-
-<a href="https://github.com/mninadmnobo/Test-Case-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mninadmnobo&repo=Test-Case-Generator" />
-</a>
-
-</p>
-
-### 🧠 MindTrace  
-AI-powered backend system using Spring Boot, PostgreSQL, and Redis for scalable healthcare support.
-
-### ⚙️ Compiler  
-End-to-end compiler with lexical analysis, parsing, semantic analysis, IR, and assembly code generation.
-
-### 🌐 SkillHub  
-REST API-based backend system with role-based access control and structured database design.
-
-### 🤖 LLM Test Generator  
-Automated web testing pipeline using LLMs focusing on robustness and evaluation.
+- 💻 NeetCode: https://neetcode.io/profile/mninadmnobo  
+- 🧠 LeetCode: https://leetcode.com/u/NinadNobo/  
+- 📊 Kaggle: https://www.kaggle.com/mohammadninadmahmud  
 
 ---
 
-### 🐄 Gemma VetCare  
-AI-assisted farming support system with REST APIs optimized for low-connectivity environments.  
-🔗 https://github.com/mninadmnobo/GemmaVetCare  
+## 📫 Contact
 
-### 🌱 Remote Gardening System  
-Embedded system using ATmega32 and Arduino for automated monitoring and control.  
-🔗 https://github.com/mninadmnobo/CSE-316-Microcontroller-and-Microprocessor-Project  
-
-### 🎬 Movie Database System  
-JavaFX-based desktop application for structured movie data management.  
-🔗 https://github.com/mninadmnobo/Movie-DataBase-Management-JavaFX  
-
-### 🎨 Computer Graphics Pipeline  
-Implemented transformations, rasterization, Z-buffering, and ray tracing using OpenGL.  
-🔗 https://github.com/mninadmnobo/Computer-Graphics-Pipeline  
-
-### 🌐 TCP Window Scaling Attack  
-Simulated MITM attack using ARP poisoning and analyzed network traffic using Wireshark.  
-🔗 https://github.com/mninadmnobo/CSE406-Window_Scaling_Attack  
-
----
-
-## 🧪 Research & Work
-
-### 🧠 Undergraduate Thesis  
-LLM-based automated web testing system focusing on test generation and evaluation.
-
-### 🩺 MedRAX — Medical AI Agent  
-Deep learning-based system for chest X-ray analysis and clinical decision support.  
-🔗 https://github.com/mninadmnobo/MedRAX_conflict_resolver  
-
----
-
-## 📊 Programming Profiles
-
-- NeetCode: https://neetcode.io/profile/mninadmnobo  
-- LeetCode: https://leetcode.com/u/NinadNobo/  
-- Kaggle: https://www.kaggle.com/mohammadninadmahmud  
-
----
-
-## 📫 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/mninadmnobo/  
-📧 Email: mninadmnobo@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mninadmnobo/  
+- 📧 Email: mninadmnobo@gmail.com  
 
 ---
 
