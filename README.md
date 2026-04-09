@@ -16,7 +16,7 @@
 - ⚙️ Focus: Backend systems, scalable APIs, systems programming  
 - 🧠 Research: LLM-based software testing, medical AI  
 - 🚀 I build end-to-end systems from design → implementation → deployment  
-- 🌐 **[Portfolio](https://github.com/mninadmnobo/portfolio)** — Personal developer portfolio
+- 🌐 **[My Portfolio](https://v0-portfolio-nu-gray.vercel.app)**
 
 ---
 
