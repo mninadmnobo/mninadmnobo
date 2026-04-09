@@ -77,11 +77,11 @@
 ## 🌐 Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/u/NinadNobo/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
   <a href="https://neetcode.io/profile/mninadmnobo">
     <img src="https://img.shields.io/badge/NeetCode-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/NinadNobo/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.kaggle.com/mohammadninadmahmud">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
