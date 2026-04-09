@@ -3,8 +3,10 @@
 > 🚀 Software Engineer @ BUET | Backend • Systems • AI  
 > Building scalable systems and intelligent software
 
-![Profile Views](https://komarev.com/ghpvc/?username=mninadmnobo)
-![Followers](https://img.shields.io/github/followers/mninadmnobo?label=Follow)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mninadmnobo&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mninadmnobo?label=Followers&style=social" />
+</p>
 
 ---
 
@@ -19,9 +21,9 @@
 
 ## 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mninadmnobo&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/mninadmnobo?label=Followers&style=social" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mninadmnobo&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mninadmnobo&theme=tokyonight" />
 </p>
 
 ---
@@ -73,18 +75,50 @@
 
 ---
 
-## 📊 Profiles
+## 🌐 Profiles
 
-- 💻 NeetCode: https://neetcode.io/profile/mninadmnobo  
-- 🧠 LeetCode: https://leetcode.com/u/NinadNobo/  
-- 📊 Kaggle: https://www.kaggle.com/mohammadninadmahmud  
-
+<p align="left">
+  <a href="https://leetcode.com/u/NinadNobo/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://neetcode.io/profile/mninadmnobo">
+    <img src="https://img.shields.io/badge/NeetCode-black" />
+  </a>
+  <a href="https://www.kaggle.com/mohammadninadmahmud">
+    <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/MNMNobo">
+    <img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces" />
+  </a>
+  <a href="https://x.com/mninadmnobo?s=11">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x" />
+  </a>
+</p>
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mninadmnobo/  
+<p align="left">
+  <a href="https://www.linkedin.com/in/mninadmnobo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:mninadmnobo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+  </a>
+  <a href="https://www.facebook.com/share/18AwXhnpkJ/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" />
+  </a>
+  <a href="https://www.instagram.com/mninadmnobo">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram" />
+  </a>
+</p>
+
+---
+
+## 📞 Contact Info
+
 - 📧 Email: mninadmnobo@gmail.com  
+- 📞 Phone: +8801939444451  
 
 ---
 
