@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohammad Ninad Mahmud Nobo
 
-> 🎓 CSE Undergraduate @ BUET | Backend • Systems • AI  
+> 🎓 CSE Undergraduate @ BUET | Full-Stack • Systems • AI  
 > Building scalable systems and intelligent software
 
 <p align="left">
@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 Undergraduate Computer Science and Engineering student at BUET  
-- ⚙️ Focus: Backend systems, scalable APIs, systems programming, ML-assisted software engineering  
+- ⚙️ Focus: Backend systems, frontend development, scalable APIs, systems programming, ML-assisted software engineering  
 - 🧠 Research: LLM-based software testing, machine learning, medical AI  
 - 🚀 I build end-to-end systems from design → implementation → deployment  
 - 🌐 **[My Portfolio](https://v0-portfolio-nu-gray.vercel.app)**
@@ -68,6 +68,7 @@
 ## 🧰 Tech Stack
 
 - **Languages:** C/C++, Python, Java, Kotlin, JavaScript, SQL  
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
 - **Backend:** Spring Boot, Spring AI, Node.js, Express.js, REST APIs  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn  
