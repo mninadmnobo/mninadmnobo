@@ -3,7 +3,7 @@
 > 🎓 CSE Undergraduate from BUET | Full-Stack • Systems • AI  
 > Building scalable systems and intelligent software
 
-Most of my work is full-stack: building AI-powered systems from backend architecture to usable product interfaces.
+I primarily build full-stack, AI-driven systems, translating robust backend architecture into intuitive, user-facing products.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mninadmnobo&label=Profile%20views&color=0e75b6&style=flat" />
@@ -32,7 +32,6 @@ Most of my work is full-stack: building AI-powered systems from backend architec
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mninadmnobo&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mninadmnobo&theme=tokyo-night" />
 </p>
 
@@ -46,7 +45,6 @@ Most of my work is full-stack: building AI-powered systems from backend architec
   → Designed around real-time monitoring workflows for caregivers and families
 
   <a href="https://github.com/mninadmnobo/MindTrace">
-    <img src="https://opengraph.githubassets.com/1/mninadmnobo/MindTrace" alt="MindTrace preview" width="100%" />
   </a>
 
 - 🐄 **[Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)**  
@@ -55,12 +53,7 @@ Most of my work is full-stack: building AI-powered systems from backend architec
   → Blends field usability with model-assisted decision support
 
   <a href="https://github.com/mninadmnobo/GemmaVetCare">
-    <img src="https://opengraph.githubassets.com/1/mninadmnobo/GemmaVetCare" alt="Gemma VetCare preview" width="100%" />
   </a>
-
----
-
-## 🚀 Selected Projects
 
 - 🤖 **[LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)**  
   Automated web testing pipeline using LLM-based test generation  
@@ -138,9 +131,6 @@ Most of my work is full-stack: building AI-powered systems from backend architec
   </a>
   <a href="https://codeforces.com/profile/MNMNobo">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://x.com/mninadmnobo?s=11">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
