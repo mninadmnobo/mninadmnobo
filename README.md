@@ -17,7 +17,7 @@
 - 🧠 Research: LLM-based software testing, machine learning, medical AI  
 - 🚀 I build end-to-end systems from design → implementation → deployment  
 
-### 🌐 **[📱 My Portfolio](https://v0-portfolio-nu-gray.vercel.app)**
+### 🌐 **[📱 My Portfolio](https://mninadmnobo.github.io/)**
 
 ---
 
