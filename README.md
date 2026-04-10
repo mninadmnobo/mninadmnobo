@@ -3,8 +3,6 @@
 > 🎓 CSE Undergraduate @ BUET | Full-Stack • Systems • AI  
 > Building scalable systems and intelligent software
 
-🌐 Personal Website: [Visit Portfolio](https://v0-portfolio-nu-gray.vercel.app)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mninadmnobo&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/mninadmnobo?label=Followers&style=social" />
@@ -18,6 +16,7 @@
 - ⚙️ Focus: Backend systems, frontend development, scalable APIs, systems programming, ML-assisted software engineering  
 - 🧠 Research: LLM-based software testing, machine learning, medical AI  
 - 🚀 I build end-to-end systems from design → implementation → deployment  
+🌐 Personal Website: [Visit Portfolio](https://v0-portfolio-nu-gray.vercel.app)
 
 ---
 
