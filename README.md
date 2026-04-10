@@ -16,7 +16,14 @@
 - ⚙️ Focus: Backend systems, frontend development, scalable APIs, systems programming, ML-assisted software engineering  
 - 🧠 Research: LLM-based software testing, machine learning, medical AI  
 - 🚀 I build end-to-end systems from design → implementation → deployment  
-🌐 Personal Website: [Visit Portfolio](https://v0-portfolio-nu-gray.vercel.app)
+
+### 🌐 **[📱 Visit My Portfolio](https://v0-portfolio-nu-gray.vercel.app)**
+
+<p align="center">
+  <a href="https://v0-portfolio-nu-gray.vercel.app">
+    <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20" height="45" />
+  </a>
+</p>
 
 ---
 
