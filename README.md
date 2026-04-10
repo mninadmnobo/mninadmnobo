@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Mohammad Ninad Mahmud Nobo
 
-> 🎓 CSE Undergraduate @ BUET | Full-Stack • Systems • AI  
+> 🎓 CSE Undergraduate from BUET | Full-Stack • Systems • AI  
 > Building scalable systems and intelligent software
+
+Most of my work is full-stack: building AI-powered systems from backend architecture to usable product interfaces.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mninadmnobo&label=Profile%20views&color=0e75b6&style=flat" />
@@ -17,6 +19,12 @@
 - 🧠 Research: LLM-based software testing, machine learning, medical AI  
 - 🚀 I build end-to-end systems from design → implementation → deployment  
 
+## ⚡ What I Do Best
+
+- Design and deliver scalable full-stack systems for production use
+- Build AI-powered applications that solve real problems
+- Bridge ML models with reliable software and APIs
+
 ### 🌐 **[📱 My Portfolio](https://mninadmnobo.github.io/)**
 
 ---
@@ -25,20 +33,43 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mninadmnobo&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=mninadmnobo&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mninadmnobo&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Flagship Projects
 
-- 🧠 **[MindTrace](https://github.com/mninadmnobo/MindTrace)** — AI-powered dementia care system with scalable backend (Spring Boot, PostgreSQL, Redis)
+- 🧠 **[MindTrace](https://github.com/mninadmnobo/MindTrace)**  
+  AI-powered dementia care platform for continuous patient support  
+  → Built with Spring Boot, PostgreSQL, and Redis for scalable data and session handling  
+  → Designed around real-time monitoring workflows for caregivers and families
 
-- 🐄 **[Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)** — AI-assisted farming system optimized for low-connectivity environments  
+  <a href="https://github.com/mninadmnobo/MindTrace">
+    <img src="https://opengraph.githubassets.com/1/mninadmnobo/MindTrace" alt="MindTrace preview" width="100%" />
+  </a>
 
-- 🤖 **[LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)** — Automated web testing using LLM pipelines  
+- 🐄 **[Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)**  
+  AI-assisted livestock care system built for low-connectivity environments  
+  → Focused on practical AI deployment where internet access is unreliable  
+  → Blends field usability with model-assisted decision support
 
-- 🩺 **[MedCAR](https://github.com/mninadmnobo/MedRAX_conflict_resolver)** — Conflict-aware medical reasoning system  
+  <a href="https://github.com/mninadmnobo/GemmaVetCare">
+    <img src="https://opengraph.githubassets.com/1/mninadmnobo/GemmaVetCare" alt="Gemma VetCare preview" width="100%" />
+  </a>
+
+---
+
+## 🚀 Selected Projects
+
+- 🤖 **[LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)**  
+  Automated web testing pipeline using LLM-based test generation  
+  → Supports thesis work on coverage, robustness, and maintainability of generated tests
+
+- 🩺 **[MedCAR](https://github.com/mninadmnobo/MedRAX_conflict_resolver)**  
+  Conflict-aware medical reasoning for safer AI-assisted diagnosis  
+  → Combines confidence calibration with abstention for trust-aware decisions
+
 ---
 
 ## 🧩 Other Projects
@@ -68,14 +99,29 @@
 
 ## 🧰 Tech Stack
 
-- **Languages:** C/C++, Python, Java, Kotlin, JavaScript, SQL  
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-- **Backend:** Spring Boot, Spring AI, Node.js, Express.js, REST APIs  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn  
-- **Mobile & Cloud:** Android (Kotlin), Firebase, Azure  
-- **DevOps & Tools:** Docker, Git, Linux  
-- **Systems:** Compiler Design, Operating Systems, Networking  
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
 ---
 ## 🌐 Profiles
@@ -108,6 +154,9 @@
   </a>
   <a href="https://www.linkedin.com/in/mninadmnobo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/mninadmnobo?s=11">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/18AwXhnpkJ/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
