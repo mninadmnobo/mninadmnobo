@@ -3,7 +3,9 @@
 > 🎓 CSE Undergraduate from BUET | Full-Stack • Systems • AI  
 > Building scalable systems and intelligent software
 
-I primarily build full-stack, AI-driven systems, translating robust backend architecture into intuitive, user-facing products.
+I mostly build full-stack AI products, from solid backend systems to simple, user-friendly interfaces.
+
+🚀 Building AI-powered systems for real-world impact in low-resource environments.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mninadmnobo&label=Profile%20views&color=0e75b6&style=flat" />
@@ -41,19 +43,17 @@ I primarily build full-stack, AI-driven systems, translating robust backend arch
 
 - 🧠 **[MindTrace](https://github.com/mninadmnobo/MindTrace)**  
   AI-powered dementia care platform for continuous patient support  
-  → Built with Spring Boot, PostgreSQL, and Redis for scalable data and session handling  
-  → Designed around real-time monitoring workflows for caregivers and families
-
-  <a href="https://github.com/mninadmnobo/MindTrace">
-  </a>
+  → Built a scalable backend with Spring Boot, PostgreSQL, and Redis  
+  → Enabled real-time monitoring workflows for caregivers and family members
 
 - 🐄 **[Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)**  
   AI-assisted livestock care system built for low-connectivity environments  
-  → Focused on practical AI deployment where internet access is unreliable  
-  → Blends field usability with model-assisted decision support
+  → Designed for practical AI deployment where internet access is unreliable  
+  → Combined field usability with model-assisted decision support
 
-  <a href="https://github.com/mninadmnobo/GemmaVetCare">
-  </a>
+---
+
+## 🚀 Selected Research Work
 
 - 🤖 **[LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)**  
   Automated web testing pipeline using LLM-based test generation  
@@ -160,8 +160,8 @@ I primarily build full-stack, AI-driven systems, translating robust backend arch
 
 ## 📞 Contact Info
 
-- 📧 **Email:** mninadmnobo@gmail.com  
-- 📞 **Phone:** +880 1939-444451  
+- 📧 **Email:** [mninadmnobo@gmail.com](mailto:mninadmnobo@gmail.com)  
+- 📞 **Phone:** [+880 1939-444451](tel:+8801939444451)  
 
 ---
 
