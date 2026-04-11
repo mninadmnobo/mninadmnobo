@@ -123,7 +123,7 @@ I mostly build full-stack AI products, from solid backend systems to simple, use
   <a href="https://neetcode.io/profile/mninadmnobo">
     <img src="https://img.shields.io/badge/NeetCode-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/NinadNobo/">
+  <a href="https://leetcode.com/u/mninadmnobo/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.kaggle.com/mohammadninadmahmud">
