@@ -59,7 +59,7 @@ I mostly build full-stack AI products, from solid backend systems to simple, use
   Automated web testing pipeline using LLM-based test generation  
   → Supports thesis work on coverage, robustness, and maintainability of generated tests
 
-- 🩺 **[MedCAR](https://github.com/mninadmnobo/MedRAX_conflict_resolver)**  
+- 🩺 **[MedCAR (Submitted)](https://github.com/mninadmnobo/MedRAX-premium)**  
   Conflict-aware medical reasoning for safer AI-assisted diagnosis  
   → Combines confidence calibration with abstention for trust-aware decisions
 
@@ -83,7 +83,7 @@ I mostly build full-stack AI products, from solid backend systems to simple, use
   - Dataset creation and evaluation  
   - Focus on coverage and robustness  
 
-- 🩺 **MedCAR Research**  
+- 🩺 **MedCAR Research (Submitted)**  
   - Multi-model chest X-ray analysis  
   - Conflict resolution and confidence calibration  
   - Trust-aware decision framework with uncertainty-based abstention  
