@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Connect
+## 🔗 Links & Profiles
 
 <p align="left">
   <a href="https://mninadmnobo.github.io/">
