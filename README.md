@@ -10,10 +10,26 @@
 
 ---
 
+## 🌐 Connect & Links
+
+<p align="left">
+  <a href="https://mninadmnobo.github.io/">
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mninadmnobo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=y5-A2oAAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧠 About Me
 
 - 🎓 CSE undergraduate at BUET  
-- ⚙️ Focus: backend systems, scalable APIs, full-stack engineering, ML-assisted software systems  
+- ⚙️ Focus: backend systems, scalable APIs, full-stack engineering, ML-assisted systems  
 - 🧠 Research: LLM-based testing, machine learning, medical AI  
 - 🚀 Build end-to-end systems from design → deployment  
 
@@ -23,15 +39,7 @@
 
 - Build scalable full-stack systems with production-ready architecture  
 - Develop AI-powered applications for real-world problems  
-- Integrate ML models into reliable backend systems and APIs  
-
----
-
-## 🌐 Links
-
-- 🌍 Portfolio: https://mninadmnobo.github.io/  
-- 💼 LinkedIn: https://www.linkedin.com/in/mninadmnobo/  
-- 📚 Google Scholar: https://scholar.google.com/citations?user=y5-A2oAAAAAJ&hl=en&oi=ao  
+- Integrate ML models into reliable backend systems  
 
 ---
 
@@ -39,8 +47,8 @@
 
 ### 🧠 [MindTrace](https://github.com/mninadmnobo/MindTrace)  
 AI-powered dementia care platform for real-time patient support  
-→ Built full-stack system using Spring Boot, PostgreSQL, Redis  
-→ Enabled real-time caregiver workflows and monitoring  
+→ Built full-stack system with Spring Boot, PostgreSQL, Redis  
+→ Enabled real-time caregiver workflows  
 
 ### 🐄 [Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)  
 AI-assisted livestock care system for low-connectivity environments  
@@ -49,36 +57,28 @@ AI-assisted livestock care system for low-connectivity environments
 
 ---
 
-## 🚀 Research Work
+## 🧪 Research & Thesis
 
-### 🤖 [LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)  
-LLM-based web testing pipeline  
-→ Automated test generation with evaluation for coverage and robustness  
+### 🧠 Web Testing Using Large Language Models (Thesis)  
+→ Automated LLM-based test generation  
+→ Dataset creation and evaluation  
+→ Focus on robustness and coverage  
 
-### 🩺 [MedCAR (Under Review)](https://github.com/mninadmnobo/MedRAX-premium)  
-Conflict-aware medical reasoning system  
-→ Multi-model reasoning with confidence calibration and abstention  
+### 🩺 MedCAR: Conflict-Aware Medical Reasoning (Under Review)  
+→ Multi-model medical reasoning system  
+→ Confidence-calibrated decision-making  
+→ Trust-aware AI with abstention  
+
+### 🔗 Research Code
+- [LLM Test Generator](https://github.com/mninadmnobo/Test-Case-Generator)  
+- [MedCAR Repository](https://github.com/mninadmnobo/MedRAX-premium)  
 
 ---
 
 ## 🧩 Core Systems Projects
 
-- ⚙️ [Compiler](https://github.com/mninadmnobo/CompilerSessional) — Full compiler with AST, IR, semantic analysis, 8086 codegen  
+- ⚙️ [Compiler](https://github.com/mninadmnobo/CompilerSessional) — Full compiler (AST, IR, semantic analysis, 8086 codegen)  
 - 🎨 [Graphics Pipeline](https://github.com/mninadmnobo/Computer-Graphics-Pipeline) — Rasterization, Z-buffering, ray tracing  
-
----
-
-## 🧪 Research & Thesis
-
-- 🧠 Undergraduate Thesis: Web Testing Using Large Language Models  
-  → Automated test generation using LLMs  
-  → Dataset creation and evaluation  
-  → Focus on coverage and robustness  
-
-- 🩺 MedCAR Research (Under Review)  
-  → Multi-model chest X-ray analysis  
-  → Conflict resolution and confidence calibration  
-  → Trust-aware decision framework  
 
 ---
 
@@ -113,21 +113,21 @@ Conflict-aware medical reasoning system
 
 ---
 
-## 🌐 Coding Profiles
+## 🌐 All Profiles
 
+### 💻 Programming
 <p align="left">
-  <a href="https://neetcode.io/profile/mninadmnobo">
-    <img src="https://img.shields.io/badge/NeetCode-0A0A0A?style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/u/mninadmnobo/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.kaggle.com/mohammadninadmahmud">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/MNMNobo">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+  <a href="https://neetcode.io/profile/mninadmnobo"><img src="https://img.shields.io/badge/NeetCode-0A0A0A?style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/mninadmnobo/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/mohammadninadmahmud"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/MNMNobo"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+### 🌐 Social Media
+<p align="left">
+  <a href="https://x.com/mninadmnobo?s=11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/18AwXhnpkJ/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mninadmnobo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -136,10 +136,13 @@ Conflict-aware medical reasoning system
 
 <p align="left">
   <a href="mailto:mninadmnobo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Primary%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mninadmnobo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:mninad.work@gmail.com">
+    <img src="https://img.shields.io/badge/Work%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:mninad.academic@gmail.com">
+    <img src="https://img.shields.io/badge/Academic%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -147,8 +150,11 @@ Conflict-aware medical reasoning system
 
 ## 📞 Contact Info
 
-- 📧 Email: mninadmnobo@gmail.com  
+- 📧 Primary: mninadmnobo@gmail.com  
+- 📧 Work: mninad.work@gmail.com  
+- 📧 Academic: mninad.academic@gmail.com  
 - 📞 Phone: +880 1939-444451  
+- 📞 Secondary: +880 1849-285757  
 
 ---
 
