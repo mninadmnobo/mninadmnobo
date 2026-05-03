@@ -46,14 +46,14 @@
 ## 🚀 Flagship Projects
 
 ### 🧠 [MindTrace](https://github.com/mninadmnobo/MindTrace)  
-AI-powered dementia care platform  
-→ Spring Boot + PostgreSQL + Redis  
-→ Real-time caregiver monitoring  
+AI-powered dementia care platform with real-time caregiver support  
+→ Full-stack system using Spring Boot, PostgreSQL, Redis  
+→ Enables real-time monitoring and coordinated care workflows  
 
 ### 🐄 [Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)  
-AI-assisted livestock care system  
-→ Offline-first Android workflows  
-→ Designed for low-connectivity environments  
+AI-assisted livestock care system for low-connectivity environments  
+→ Offline-first Android workflows with resilient backend integration  
+→ Provides reliable decision support in constrained field conditions  
 
 ---
 
@@ -61,22 +61,20 @@ AI-assisted livestock care system
 
 ### 🧠 [Web Testing Using Large Language Models](https://github.com/mninadmnobo/Test-Case-Generator)  
 (Undergraduate Thesis)  
-→ LLM-based automated test generation  
-→ Dataset creation and evaluation  
-→ Focus on robustness and coverage  
+→ LLM-based pipeline for automated web test generation and validation  
+→ Dataset creation and evaluation for robustness and coverage  
 
-### 🩺 [MedCAR](https://github.com/mninadmnobo/MedRAX-premium) (Under Review)  
-→ Conflict-aware medical reasoning  
-→ Multi-model inference with confidence calibration  
+### 🩺 [MedCAR - Conflict Aware Reasoning for Multimodal Clinical AI](https://github.com/mninadmnobo/MedRAX-premium) (Under Review)  
+→ Conflict-aware medical reasoning system for chest X-ray analysis  
+→ Multi-model inference with confidence-calibrated decision making  
 
 ---
 
 ## 🧩 Core System Projects
  
-- ⚙️ [Compiler](https://github.com/mninadmnobo/CompilerSessional) — Full compiler pipeline with parsing, semantic analysis, symbol table, and 8086 code generation
-- 🎨 [Graphics Pipeline](https://github.com/mninadmnobo/Computer-Graphics-Pipeline) — Full rendering pipeline with rasterization, Z-buffering, and ray tracing
-
-
+- ⚙️ [Compiler](https://github.com/mninadmnobo/CompilerSessional) — Full compiler pipeline with parsing, semantic analysis, symbol table, and 8086 code generation  
+- 🎨 [Graphics Pipeline](https://github.com/mninadmnobo/Computer-Graphics-Pipeline) — Full rendering pipeline with rasterization, Z-buffering, and ray tracing.
+  
 ---
 
 ## 🔧 Other Projects
