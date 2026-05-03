@@ -81,10 +81,10 @@ AI-assisted livestock care system
 
 ## 🔧 Other Projects
 
-- 🌐 [SkillHub](https://github.com/mninadmnobo/SKILL_HUB) — Role-based REST API backend  
-- 🌱 [Remote Gardening](https://github.com/mninadmnobo/CSE-316-Microcontroller-and-Microprocessor-Project) — Embedded automation system  
-- 🌐 [TCP Attack](https://github.com/mninadmnobo/CSE406-Window_Scaling_Attack) — MITM network simulation  
-- 🎬 [Movie DB](https://github.com/mninadmnobo/Movie-DataBase-Management-JavaFX) — JavaFX desktop app  
+- 🌐 [SkillHub](https://github.com/mninadmnobo/SKILL_HUB) — Coaching / school management system with role-based access, REST APIs, and structured database design  
+- 🌱 [Remote Gardening](https://github.com/mninadmnobo/CSE-316-Microcontroller-and-Microprocessor-Project) — Microcontroller-based system for automated plant monitoring and actuator control using sensor inputs  
+- 🌐 [TCP Window Scaling Attack](https://github.com/mninadmnobo/CSE406-Window_Scaling_Attack) — Network security project demonstrating MITM attacks on TCP window scaling with packet analysis and protocol manipulation  
+- 🎬 [Movie DB](https://github.com/mninadmnobo/Movie-DataBase-Management-JavaFX) — JavaFX desktop application for managing movie data with structured CRUD operations  
 
 ---
 
@@ -92,27 +92,32 @@ AI-assisted livestock care system
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin,js,ts" /><br/>
+  C++ • Python • Java • Kotlin • JavaScript • TypeScript
 </p>
 
 ### ⚙️ Backend & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs,tailwind" /><br/>
+  Spring Boot • Node.js • Express • React • Next.js • Tailwind CSS
 </p>
 
 ### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br/>
+  PyTorch • TensorFlow
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /><br/>
+  PostgreSQL • MongoDB • Redis
 </p>
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,azure" /><br/>
+  Docker • Linux • Git • Azure
 </p>
 
 ---
