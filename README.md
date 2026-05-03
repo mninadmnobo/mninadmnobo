@@ -64,7 +64,7 @@ AI-assisted livestock care system for low-connectivity environments
 → LLM-based pipeline for automated web test generation and validation  
 → Dataset creation and evaluation for robustness and coverage  
 
-### 🩺 [MedCAR - Conflict Aware Reasoning for Multimodal Clinical AI](https://github.com/mninadmnobo/MedRAX-premium) (Under Review)  
+### 🩺 [MedCAR - Conflict Aware Reasoning for Multimodal Clinical AI](https://github.com/mninadmnobo/MedCAR) (Under Review)  
 → Conflict-aware medical reasoning system for chest X-ray analysis  
 → Multi-model inference with confidence-calibrated decision making  
 
