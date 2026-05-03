@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+  
 ## 🔗 Links & Profiles
 
 <p align="left">
@@ -81,10 +81,10 @@ AI-assisted livestock care system
 
 ## 🔧 Other Projects
 
-- 🌐 [SkillHub](https://github.com/mninadmnobo/SKILL_HUB) — Coaching / school management system with role-based access, REST APIs, and structured database design  
-- 🌱 [Remote Gardening](https://github.com/mninadmnobo/CSE-316-Microcontroller-and-Microprocessor-Project) — Microcontroller-based system for automated plant monitoring and actuator control using sensor inputs  
-- 🌐 [TCP Window Scaling Attack](https://github.com/mninadmnobo/CSE406-Window_Scaling_Attack) — Network security project demonstrating MITM attacks on TCP window scaling with packet analysis and protocol manipulation  
-- 🎬 [Movie DB](https://github.com/mninadmnobo/Movie-DataBase-Management-JavaFX) — JavaFX desktop application for managing movie data with structured CRUD operations  
+- 🌐 [SkillHub](https://github.com/mninadmnobo/SKILL_HUB) — Coaching / school management system with role-based access and REST API backend  
+- 🌱 [Remote Gardening](https://github.com/mninadmnobo/CSE-316-Microcontroller-and-Microprocessor-Project) — Microcontroller-based system for automated plant monitoring and actuator control  
+- 🌐 [TCP Window Scaling Attack](https://github.com/mninadmnobo/CSE406-Window_Scaling_Attack) — MITM attack simulation on TCP window scaling with packet analysis and protocol manipulation  
+- 🎬 [Movie DB](https://github.com/mninadmnobo/Movie-DataBase-Management-JavaFX) — JavaFX application with structured CRUD-based data management  
 
 ---
 
