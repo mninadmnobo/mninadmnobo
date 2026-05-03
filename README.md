@@ -72,9 +72,10 @@ AI-assisted livestock care system
 ---
 
 ## 🧩 Core System Projects
+ 
+- ⚙️ [Compiler](https://github.com/mninadmnobo/CompilerSessional) — Full compiler pipeline with parsing, semantic analysis, symbol table, and 8086 code generation
+- 🎨 [Graphics Pipeline](https://github.com/mninadmnobo/Computer-Graphics-Pipeline) — Full rendering pipeline with rasterization, Z-buffering, and ray tracing
 
-- ⚙️ [Compiler](https://github.com/mninadmnobo/CompilerSessional) — AST, IR, semantic analysis, 8086 codegen  
-- 🎨 [Graphics Pipeline](https://github.com/mninadmnobo/Computer-Graphics-Pipeline) — Rasterization, Z-buffering, ray tracing  
 
 ---
 
