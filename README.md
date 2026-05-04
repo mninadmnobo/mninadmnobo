@@ -120,9 +120,7 @@ AI-assisted livestock care system for low-connectivity environments
 
 ---
 
-## 🌐 Profiles
-
-### 💻 Programming
+### 💻 Programming Profiles
 <p align="left">
   <a href="https://neetcode.io/profile/mninadmnobo">
     <img src="https://img.shields.io/badge/NeetCode-111827?style=for-the-badge" />
@@ -138,7 +136,7 @@ AI-assisted livestock care system for low-connectivity environments
   </a>
 </p>
 
-### 🌐 Social
+### 🌐 Social Profiles
 <p align="left">
   <a href="https://www.facebook.com/share/18AwXhnpkJ/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
