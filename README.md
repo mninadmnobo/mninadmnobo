@@ -171,9 +171,9 @@ AI-assisted livestock care system for low-connectivity environments
 
 ## 📞 Contact Info
 
-- 📧 Primary: mninadmnobo@gmail.com  
-- 📧 Academic: 2005080@ugrad.cse.buet.ac.bd  
-- 📧 Personal: ninadnobo@gmail.com  
+- 📧 Professional E-Mail: mninadmnobo@gmail.com  
+- 📧 Academic(BUET) E-Mail: 2005080@ugrad.cse.buet.ac.bd  
+- 📧 Personal E-Mail: ninadnobo@gmail.com  
 - 📞 Phone: +880 1939-444451  
 - 📞 Secondary: +880 1849-285757  
 
