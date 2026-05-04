@@ -150,23 +150,6 @@ AI-assisted livestock care system for low-connectivity environments
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📫 Contact
-
-<p align="left">
-  <a href="mailto:mninadmnobo@gmail.com">
-    <img src="https://img.shields.io/badge/Primary%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:2005080@ugrad.cse.buet.ac.bd">
-    <img src="https://img.shields.io/badge/Academic%20Mail-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:ninadnobo@gmail.com">
-    <img src="https://img.shields.io/badge/Personal%20Mail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 📞 Contact Info
