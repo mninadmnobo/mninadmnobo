@@ -43,6 +43,24 @@
 
 ---
 
+---
+
+## 🏢 Professional Work
+
+### 🔬 [Saturn R&D](https://github.com/Saturn-RnD)
+Research and development in AI-driven systems, smart textile automation, and advanced industrial technologies.
+
+→ Building and deploying full-stack systems for industrial R&D  
+→ Working across AI, backend engineering, automation, and production systems
+
+### 🤖 [FABINS Automation](https://github.com/FABINS-Automation)
+AI-powered textile inspection and industrial automation.
+
+→ Developing intelligent fabric inspection and computer-vision systems  
+→ Building the software ecosystem from ML models to production-ready platforms
+
+---
+
 ## 🚀 Flagship Projects
 
 ### 🧠 [MindTrace](https://github.com/mninadmnobo/MindTrace)  
