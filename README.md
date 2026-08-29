@@ -72,6 +72,9 @@ AI-powered textile inspection and industrial automation.
 → Conflict-aware medical reasoning system for chest X-ray analysis  
 → Multi-model inference with confidence-calibrated decision making  
 
+### 🎙️ [Bengali-Loop - Community Benchmarks for Long-Form Bangla ASR and Speaker Diarization](https://arxiv.org/abs/2602.14291)
+→ Community benchmark for long-form Bangla automatic speech recognition and speaker diarization
+
 ---
 
 ## 🚀 Projects
