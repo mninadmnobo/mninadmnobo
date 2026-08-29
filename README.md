@@ -61,20 +61,6 @@ AI-powered textile inspection and industrial automation.
 
 ---
 
-## 🚀 Flagship Projects
-
-### 🧠 [MindTrace](https://github.com/mninadmnobo/MindTrace)  
-AI-powered dementia care platform with real-time caregiver support  
-→ Full-stack system using Spring Boot, PostgreSQL, Redis  
-→ Enables real-time monitoring and coordinated care workflows  
-
-### 🐄 [Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)  
-AI-assisted livestock care system for low-connectivity environments  
-→ Offline-first Android workflows with resilient backend integration  
-→ Provides reliable decision support in constrained field conditions  
-
----
-
 ## 🧪 Research & Thesis
 
 ### 🧠 [Web Testing Using Large Language Models](https://github.com/mninadmnobo/Test-Case-Generator)  
@@ -85,6 +71,20 @@ AI-assisted livestock care system for low-connectivity environments
 ### 🩺 [MedCAR - Conflict Aware Reasoning for Multimodal Clinical AI](https://github.com/mninadmnobo/MedCAR) (Under Review)  
 → Conflict-aware medical reasoning system for chest X-ray analysis  
 → Multi-model inference with confidence-calibrated decision making  
+
+---
+
+## 🚀 Projects
+
+### 🧠 [MindTrace](https://github.com/mninadmnobo/MindTrace)  
+AI-powered dementia care platform with real-time caregiver support  
+→ Full-stack system using Spring Boot, PostgreSQL, Redis  
+→ Enables real-time monitoring and coordinated care workflows  
+
+### 🐄 [Gemma VetCare](https://github.com/mninadmnobo/GemmaVetCare)  
+AI-assisted livestock care system for low-connectivity environments  
+→ Offline-first Android workflows with resilient backend integration  
+→ Provides reliable decision support in constrained field conditions  
 
 ---
 
